@@ -3,6 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+<!doctype html>
 <html lang="fr">
   <head>
     <meta charset="utf-8" />
@@ -14,4 +15,5 @@ in_menu: true
 <p>C'est pas parce que on à rien à  <strong>dire</strong>  qu'il faut fermer sa gueule !</p>
 <a href='https://www.hebergeur-image.com/'><img src='https://www.hebergeur-image.com/upload/109.208.246.164-66c879922baf9.jpg'/ align="center" width=25% height=25%></a>
   </body>
+</html> 
 </html> 
