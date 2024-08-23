@@ -12,7 +12,7 @@ in_menu: true
   </head>
   <body>
     <h1> Une page de test</h1>
-C'est pas parce que on à rien à  <strong>dire</strong>  qu'il faut fermer sa gueule !
-<a href='https://www.hebergeur-image.com/'><img src='https://www.hebergeur-image.com/upload/109.208.246.164-66c879922baf9.jpg'/ alt="Coluche" align="center" height="25%" width="25%">Coluche</a>
+<p>C'est pas parce que on à rien à  <strong>dire</strong>  qu'il faut fermer sa gueule !</p>
+<a'><img src='https://www.hebergeur-image.com/upload/109.208.246.164-66c879922baf9.jpg'/ alt="Coluche" align="center" height="25%" width="25%">Coluche</a>
   </body>
 </html> 
