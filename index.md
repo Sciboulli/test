@@ -13,6 +13,6 @@ in_menu: true
   <body>
     <h1> Une page de test</h1>
 <p>C'est pas parce que on à rien à  <strong>dire</strong>  qu'il faut fermer sa gueule !</p>
-<a'><img src='https://www.hebergeur-image.com/upload/109.208.246.164-66c879922baf9.jpg'/ alt="Coluche" align="center" height="25%" width="25%">Coluche</a>
+![Portrait de Coluche]({% link images/Photo_3680.jpg %})
   </body>
 </html> 
