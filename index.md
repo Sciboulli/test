@@ -3,7 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<!doctype html>
 <html lang="fr">
   <head>
     <meta charset="utf-8" />
