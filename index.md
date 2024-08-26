@@ -12,8 +12,7 @@ in_menu: true
   <body>
     <h1> Une page de test</h1>
 <p>C'est pas parce que on à rien à  <strong>dire</strong>  qu'il faut fermer sa gueule !</p>
-<p><img src='[URL=https://www.hebergeur-image.com/][IMG]https://www.hebergeur-image.com/upload/109.208.246.164-66c879922baf9.jpg[/IMG][/URL]'/ align="center" width=25% height=25% alt="Portrait de Coluche"></p>
+<p><a href="https://goopics.net/i/gz8qiz"><img src="https://i.goopics.net/gz8qiz.jpg" align="center" width=25% height=25% alt="Portrait de Coluche"></a></p>
 <p><a href="https://www.centre-de-ressources.fr">Centre de Ressources des Hauts pays Alpins</a></p>
-
   </body>
 </html> 
